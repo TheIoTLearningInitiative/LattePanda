@@ -1,3 +1,5 @@
 # Introduction
 
+  [Homepage](http://www.lattepanda.com/)
+
 - [DFRobot LattePanda](http://www.dfrobot.com/index.php?route=product/product&product_id=1404)
