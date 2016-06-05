@@ -15,5 +15,3 @@
 - [Latte Panda Store](http://www.dfrobot.com/index.php?route=product/search&description=true&search=lattepanda)
 - [Latte Panda Blog](http://www.lattepanda.com/maintenance/)
 - [Latte Panda @ DFRobot](http://www.dfrobot.com/index.php?route=product/product&product_id=1404)
-
-
