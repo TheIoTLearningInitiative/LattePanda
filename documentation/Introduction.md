@@ -12,6 +12,7 @@
 - [Latte Panda Documentation](http://www.lattepanda.com/docs/)
 - [Latte Panda Forum](http://www.lattepanda.com/forum/)
 - [Latte Panda Projects](http://www.lattepanda.com/maintenance/)
+- [LattePanda Store](http://www.dfrobot.com/index.php?route=product/search&description=true&search=lattepanda)
 - [DFRobot LattePanda](http://www.dfrobot.com/index.php?route=product/product&product_id=1404)
 
 
