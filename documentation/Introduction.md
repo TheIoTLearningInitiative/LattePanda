@@ -10,6 +10,7 @@
 > > Physical computing is made easy with an Arduino co-processor. Build a prototype in minutes, test your idea, optimize your code, develop a product, and scale.
 
 - [Latte Panda Documentation](http://www.lattepanda.com/docs/)
+- [Latte Panda Forum](http://www.lattepanda.com/forum/)
 - [DFRobot LattePanda](http://www.dfrobot.com/index.php?route=product/product&product_id=1404)
 
 
