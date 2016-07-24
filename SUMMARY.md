@@ -8,4 +8,5 @@
    * Hardware and Accesories
    * Development Support
    * Tbd
+   * Troubleshooting and FAQs
 
