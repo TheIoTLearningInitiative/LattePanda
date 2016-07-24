@@ -15,4 +15,6 @@
    - Python Tools for Visual Studio
    - Github Extension for Visual Studio
    - Joyent NodeJS
-   3.1 Enable developer mode on your operating system 
+   3.1 Enable developer mode on your operating system
+ 2. Setup the Arduino
+ 3. Blink your Board
