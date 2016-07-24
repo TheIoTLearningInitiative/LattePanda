@@ -2,7 +2,7 @@
 
 # Visual Studio
 
-> Tools for every developer and every app 
+> Tools for every developer and every app [Homepage](https://www.visualstudio.com)
 
 - Visual Studio
   - A rich, integrated development environment for creating stunning applications for Windows, Android, and iOS, as well as modern web applications and cloud services.
