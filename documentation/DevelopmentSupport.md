@@ -12,5 +12,6 @@
 1. [Setup your PC](http://www.lattepanda.com/docs/#SetupyourPC)
    1.1 Download Visual Studio 2015
    2.1 Install It, remember to select the “Universal Windows App Development Tools”: 
+   - Python Tools for Visual Studio
    - Github Extension for Visual Studio
    3.1 Enable developer mode on your operating system 
