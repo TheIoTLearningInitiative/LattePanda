@@ -8,4 +8,5 @@
    * [Hardware and Accesories](documentation/HardwareAndAccesories.md)
    * [Development Support](documentation/DevelopmentSupport.md)
    * Troubleshooting and FAQs
+* Hardware
 
