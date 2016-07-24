@@ -9,3 +9,10 @@
 > > 2.Set up the Arduino(It is pre-installed, unless you changed the Arduino program) 
 > > 3.Create a project or use the sample project
 
+# Setup your PC
+
+http://www.lattepanda.com/docs/#SetupyourPC
+
+- Download Visual Studio 2015 Here 
+- Install It, remember to select the “Universal Windows App Development Tools”: 
+- Enable developer mode on your operating system 
