@@ -11,7 +11,6 @@
 - Visual Studio Code
   - Code editing redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform — Windows, Mac OS X, or Linux.
 
-
 # Visual Studio Downloads
 
 [Visual Studio Downloads](https://www.visualstudio.com/downloads/download-visual-studio-vs)
@@ -22,3 +21,7 @@
   - Enterprise-grade solution with advanced capabilities for teams working on projects of any size or complexity, including advanced testing and DevOps. 
 - Visual Studio Code
   - Code editing redefined. Build and debug modern web and cloud applications. Code is free and available on your favorite platform — Windows, Mac OS X, or Linux.
+
+# Visual Studio Installation
+
+- Github Extension for Visual Studio
