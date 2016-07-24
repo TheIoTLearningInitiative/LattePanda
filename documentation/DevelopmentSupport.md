@@ -9,12 +9,12 @@
 > > 2.Set up the Arduino(It is pre-installed, unless you changed the Arduino program) 
 > > 3.Create a project or use the sample project
 
-1. [Setup your PC](http://www.lattepanda.com/docs/#SetupyourPC)
+1. [Set up your PC](http://www.lattepanda.com/docs/#SetupyourPC)
    1.1 Download Visual Studio 2015
    2.1 Install It, remember to select the “Universal Windows App Development Tools”: 
    - Python Tools for Visual Studio
    - Github Extension for Visual Studio
    - Joyent NodeJS
    3.1 Enable developer mode on your operating system
- 2. Setup the Arduino
- 3. Blink your Board
+ 2. [Set up the Arduino](http://www.lattepanda.com/docs/#SetuptheArduino)
+ 3. [Blink your Board](http://www.lattepanda.com/docs/#BlinkyourBoard)
