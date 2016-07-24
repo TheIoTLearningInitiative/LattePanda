@@ -1,9 +1,9 @@
-# Getting Started
+W# Getting Started
 
 - Power on your LattePanda
 - Connect with your peripheral device
 - Connecto to Wi-Fi
-  - Verify your speci
+  - Verify your specific Wi-Fi Security settings
 - Connect with 7'' Display and Touch Panel Overlay
 
 # Media
