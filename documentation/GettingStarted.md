@@ -3,6 +3,7 @@
 - Power on your LattePanda
 - Connect with your peripheral device
 - Connecto to Wi-Fi
+  - Verify your speci
 - Connect with 7'' Display and Touch Panel Overlay
 
 # Media
