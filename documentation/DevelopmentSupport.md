@@ -14,4 +14,5 @@
    2.1 Install It, remember to select the “Universal Windows App Development Tools”: 
    - Python Tools for Visual Studio
    - Github Extension for Visual Studio
+   - Joyent NodeJS
    3.1 Enable developer mode on your operating system 
