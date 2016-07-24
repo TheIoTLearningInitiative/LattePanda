@@ -2,7 +2,7 @@
 
 # Visual Studio
 
-- [Visual Studio Downloads](https://www.visualstudio.com/downloads/download-visual-studio-vs)
+> Tools for every developer and every app [Visual Studio Downloads](https://www.visualstudio.com/downloads/download-visual-studio-vs)
 
 - Visual Studio Community
   - A rich, integrated development environment for creating stunning applications for Windows, Android, and iOS, as well as modern web applications and cloud services 
