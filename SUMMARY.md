@@ -7,6 +7,5 @@
    * Software and Operating Systems
    * Hardware and Accesories
    * Development Support
-   * Tbd
    * Troubleshooting and FAQs
 
